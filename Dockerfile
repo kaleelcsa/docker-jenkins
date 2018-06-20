@@ -1,5 +1,5 @@
 FROM jenkins:1.642.1
-MAINTAINER Justin Menga <justin.menga@gmail.com>
+MAINTAINER kaleelcsa <kaleelcsa@gmail.com>
 
 # Suppress apt installation warnings
 ENV DEBIAN_FRONTEND=noninteractive
